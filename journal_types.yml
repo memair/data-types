@@ -1,0 +1,71 @@
+- id: 1
+  name: Anecdote
+  slug: anecdote
+
+- id: 2
+  name: Belief
+  slug: belief
+
+- id: 3
+  name: Concept
+  slug: concept
+
+- id: 4
+  name: Dream
+  slug: dream
+
+- id: 5
+  name: Goal
+  slug: goal
+
+- id: 6
+  name: Idea
+  slug: idea
+
+- id: 7
+  name: Memory
+  slug: memory
+
+- id: 8
+  name: Observation
+  slug: observation
+
+- id: 9
+  name: Opinion
+  slug: opinion
+
+- id: 10
+  name: Prediction
+  slug: prediction
+
+- id: 11
+  name: Principle
+  slug: principle
+
+- id: 12
+  name: Proposition
+  slug: proposition
+
+- id: 13
+  name: Reflection
+  slug: reflection
+
+- id: 14
+  name: Thought
+  slug: thought
+
+- id: 15
+  name: Value
+  slug: value
+
+- id: 16
+  name: Craving
+  slug: craving
+
+- id: 17
+  name: Quote
+  slug: quote
+
+- id: 18
+  name: Worry
+  slug: worry

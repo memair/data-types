@@ -1,0 +1,35 @@
+- id: 1
+  name: Played game
+  slug: played_game
+
+- id: 2
+  name: Watched video
+  slug: watched_video
+
+- id: 3
+  name: Visited website
+  slug: visited_website
+
+- id: 4
+  name: Opened app
+  slug: opened_app
+
+- id: 5
+  name: Unlocked device
+  slug: unlocked_device
+
+- id: 6
+  name: Took photo
+  slug: took_photo
+
+- id: 7
+  name: Recorded video
+  slug: recorded_video
+
+- id: 8
+  name: Turned off device
+  slug: turned_off_device
+
+- id: 9
+  name: Turned on device
+  slug: turned_on_device
