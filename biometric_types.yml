@@ -1,0 +1,27 @@
+- id: 1
+  name: Body Weight
+  slug: weight
+  unit: Kilogram
+  unit_symbol: kg
+  about:
+
+- id: 2
+  name: Systolic Pressure
+  slug: systolic_pressure
+  unit: Millimeters of Mercury
+  unit_symbol: mm Hg
+  about: Minimum blood pressure
+
+- id: 3
+  name: Diastolic Pressure
+  slug: diastolic_pressure
+  unit: Millimeters of Mercury
+  unit_symbol: mm Hg
+  about: Maximum blood pressure
+
+- id: 4
+  name: Internal Body Temperature
+  slug: internal_body_temp
+  unit: Celsius
+  unit_symbol: °C
+  about: Internal Body Temperature

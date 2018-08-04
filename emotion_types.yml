@@ -1,0 +1,64 @@
+- id: 1
+  name: Happy
+  slug: happy
+  emoji: 😀
+
+- id: 2
+  name: Relieved
+  slug: relieved
+  emoji: 😌
+
+- id: 3
+  name: Neutral
+  slug: neutral
+  emoji: 😐
+
+- id: 4
+  name: Worried
+  slug: worried
+  emoji: 😟
+
+- id: 5
+  name: Sad
+  slug: sad
+  emoji: 😞
+
+- id: 6
+  name: Content
+  slug: content
+  emoji: 😌
+
+- id: 7
+  name: Angry
+  slug: angry
+  emoji: 😠
+
+- id: 8
+  name: Tired
+  slug: tired
+  emoji: 😫
+
+- id: 9
+  name: Anxious
+  slug: anxious
+  emoji: 😟
+
+- id: 10
+  name: Sleepy
+  slug: sleepy
+  emoji: 😪
+
+- id: 11
+  name: Confounded
+  slug: confounded
+  emoji: 😖
+
+- id: 12
+  name: Fearful
+  slug: fearful
+  emoji: 😨
+  
+- id: 13
+  name: Anguish
+  slug: anguish
+  emoji: 😧

@@ -1,0 +1,589 @@
+- id: 1
+  name: Acroyoga
+  slug: acroyoga
+  about: Acrobatic Yoga
+
+- id: 2
+  name: Aerobics
+  slug: aerobics
+  about:
+
+- id: 3
+  name: Awake (during sleep cycle)
+  slug: awake_during_sleep_cycle
+  about:
+
+- id: 4
+  name: Back-country skiing
+  slug: back_country_skiing
+  about:
+
+- id: 5
+  name: Badminton
+  slug: badminton
+  about:
+
+- id: 6
+  name: Baseball
+  slug: baseball
+  about:
+
+- id: 7
+  name: Basketball
+  slug: basketball
+  about:
+
+- id: 8
+  name: Biathlon
+  slug: biathlon
+  about:
+
+- id: 9
+  name: Biking
+  slug: biking
+  about:
+
+- id: 10
+  name: Boxing
+  slug: boxing
+  about:
+
+- id: 11
+  name: Calisthenics
+  slug: calisthenics
+  about:
+
+- id: 12
+  name: Circuit training
+  slug: circuit_training
+  about:
+
+- id: 13
+  name: Circus arts
+  slug: circus_arts
+  about:
+
+- id: 14
+  name: Cricket
+  slug: cricket
+  about:
+
+- id: 15
+  name: Cross-country skiing
+  slug: cross_country_skiing
+  about:
+
+- id: 16
+  name: Cross skating
+  slug: cross_skating
+  about:
+
+- id: 17
+  name: Curling
+  slug: curling
+  about:
+
+- id: 18
+  name: Dancing
+  slug: dancing
+  about:
+
+- id: 19
+  name: Deep sleep
+  slug: deep_sleep
+  about:
+
+- id: 20
+  name: Diving
+  slug: diving
+  about:
+
+- id: 21
+  name: Downhill skiing
+  slug: downhill_skiing
+  about:
+
+- id: 22
+  name: Elliptical
+  slug: elliptical
+  about:
+
+- id: 23
+  name: Ergometer
+  slug: ergometer
+  about:
+
+- id: 24
+  name: Fencing
+  slug: fencing
+  about:
+
+- id: 25
+  name: Football (American)
+  slug: football_american
+  about:
+
+- id: 26
+  name: Football (Australian)
+  slug: football_australian
+  about:
+
+- id: 27
+  name: Football (Soccer)
+  slug: football_soccer
+  about:
+
+- id: 28
+  name: Frisbee
+  slug: frisbee
+  about:
+
+- id: 29
+  name: Gardening
+  slug: gardening
+  about:
+
+- id: 30
+  name: Golf
+  slug: golf
+  about:
+
+- id: 31
+  name: Gymnastics
+  slug: gymnastics
+  about:
+
+- id: 32
+  name: Handball
+  slug: handball
+  about:
+
+- id: 33
+  name: Handbiking
+  slug: handbiking
+  about:
+
+- id: 34
+  name: Hiking
+  slug: hiking
+  about:
+
+- id: 35
+  name: Hockey
+  slug: hockey
+  about:
+
+- id: 36
+  name: Horseback riding
+  slug: horseback_riding
+  about:
+
+- id: 37
+  name: Housework
+  slug: housework
+  about:
+
+- id: 38
+  name: Ice skating
+  slug: ice_skating
+  about:
+
+- id: 39
+  name: Indoor skating
+  slug: indoor_skating
+  about:
+
+- id: 40
+  name: Inline skating (rollerblading)
+  slug: inline_skating_rollerblading
+  about:
+
+- id: 41
+  name: In vehicle
+  slug: in_vehicle
+  about:
+
+- id: 42
+  name: Jogging
+  slug: jogging
+  about:
+
+- id: 43
+  name: Jumping rope
+  slug: jumping_rope
+  about:
+
+- id: 44
+  name: Kayaking
+  slug: kayaking
+  about:
+
+- id: 45
+  name: Kettlebell training
+  slug: kettlebell_training
+  about:
+
+- id: 46
+  name: Kickboxing
+  slug: kickboxing
+  about:
+
+- id: 47
+  name: Kite skiing
+  slug: kite_skiing
+  about:
+
+- id: 48
+  name: Kitesurfing
+  slug: kitesurfing
+  about:
+
+- id: 49
+  name: Light sleep
+  slug: light_sleep
+  about:
+
+- id: 50
+  name: Martial arts
+  slug: martial_arts
+  about:
+
+- id: 51
+  name: Massage giving
+  slug: massage_giving
+  about:
+
+- id: 52
+  name: Massage receiving
+  slug: massage_receiving
+  about:
+
+- id: 53
+  name: Meditation
+  slug: meditation
+  about:
+
+- id: 54
+  name: Mixed martial arts
+  slug: mixed_martial_arts
+  about:
+
+- id: 55
+  name: Mountain biking
+  slug: mountain_biking
+  about:
+
+- id: 56
+  name: Nording walking
+  slug: nording_walking
+  about:
+
+- id: 57
+  name: On foot
+  slug: on_foot
+  about:
+
+- id: 58
+  name: Other (unclassified fitness activity)
+  slug: other_unclassified_fitness_activity
+  about:
+
+- id: 59
+  name: Paragliding
+  slug: paragliding
+  about:
+
+- id: 60
+  name: Pilates
+  slug: pilates
+  about:
+
+- id: 61
+  name: Polo
+  slug: polo
+  about:
+
+- id: 62
+  name: PX exercises
+  slug: px_exercises
+  about:
+
+- id: 63
+  name: Racquetball
+  slug: racquetball
+  about:
+
+- id: 64
+  name: REM sleep
+  slug: rem_sleep
+  about:
+
+- id: 65
+  name: Road biking
+  slug: road_biking
+  about:
+
+- id: 66
+  name: Rock climbing
+  slug: rock_climbing
+  about:
+
+- id: 67
+  name: Roller skiing
+  slug: roller_skiing
+  about:
+
+- id: 68
+  name: Rowing
+  slug: rowing
+  about:
+
+- id: 69
+  name: Rowing machine
+  slug: rowing_machine
+  about:
+
+- id: 70
+  name: Rugby
+  slug: rugby
+  about:
+
+- id: 71
+  name: Running
+  slug: running
+  about:
+
+- id: 72
+  name: Running on sand
+  slug: running_on_sand
+  about:
+
+- id: 73
+  name: Running (treadmill)
+  slug: running_treadmill
+  about:
+
+- id: 74
+  name: Sailing
+  slug: sailing
+  about:
+
+- id: 75
+  name: Scuba diving
+  slug: scuba_diving
+  about:
+
+- id: 76
+  name: Sexual intercourse
+  slug: sexual_intercourse
+  about:
+
+- id: 77
+  name: Sitting
+  slug: sitting
+  about:
+
+- id: 78
+  name: Skateboarding
+  slug: skateboarding
+  about:
+
+- id: 79
+  name: Skating
+  slug: skating
+  about:
+
+- id: 80
+  name: Skiing
+  slug: skiing
+  about:
+
+- id: 81
+  name: Sledding
+  slug: sledding
+  about:
+
+- id: 82
+  name: Sleeping
+  slug: sleeping
+  about:
+
+- id: 83
+  name: Snowboarding
+  slug: snowboarding
+  about:
+
+- id: 84
+  name: Snowmobile
+  slug: snowmobile
+  about:
+
+- id: 85
+  name: Snowshoeing
+  slug: snowshoeing
+  about:
+
+- id: 86
+  name: Spinning
+  slug: spinning
+  about:
+
+- id: 87
+  name: Squash
+  slug: squash
+  about:
+
+- id: 88
+  name: Stair climbing
+  slug: stair_climbing
+  about:
+
+- id: 89
+  name: Stair-climbing machine
+  slug: stair_climbing_machine
+  about:
+
+- id: 90
+  name: Standing
+  slug: standing
+  about:
+
+- id: 91
+  name: Stand-up paddleboarding
+  slug: stand_up_paddleboarding
+  about:
+
+- id: 92
+  name: Stationary biking
+  slug: stationary_biking
+  about:
+
+- id: 93
+  name: Still (not moving)
+  slug: still
+  about:
+
+- id: 94
+  name: Strength training
+  slug: strength_training
+  about:
+
+- id: 95
+  name: Surfing
+  slug: surfing
+  about:
+
+- id: 96
+  name: Swimming
+  slug: swimming
+  about:
+
+- id: 97
+  name: Swimming (open water)
+  slug: swimming_open_water
+  about:
+
+- id: 98
+  name: Swimming (swimming pool)
+  slug: swimming_swimming_pool
+  about:
+
+- id: 99
+  name: Table tennis (ping pong)
+  slug: table_tennis
+  about:
+
+- id: 100
+  name: Team sports
+  slug: team_sports
+  about:
+
+- id: 101
+  name: Tennis
+  slug: tennis
+  about:
+
+- id: 102
+  name: Tilting (sudden device gravity change)
+  slug: tilting
+  about:
+
+- id: 103
+  name: Treadmill (walking or running)
+  slug: treadmill
+  about:
+
+- id: 104
+  name: Unknown (unable to detect activity)
+  slug: unknown
+  about:
+
+- id: 105
+  name: Utility biking
+  slug: utility_biking
+  about:
+
+- id: 106
+  name: Volleyball
+  slug: volleyball
+  about:
+
+- id: 107
+  name: Volleyball (beach)
+  slug: volleyball_beach
+  about:
+
+- id: 108
+  name: Volleyball (indoor)
+  slug: volleyball_indoor
+  about:
+
+- id: 109
+  name: Wakeboarding
+  slug: wakeboarding
+  about:
+
+- id: 110
+  name: Walking
+  slug: walking
+  about:
+
+- id: 111
+  name: Walking (fitness)
+  slug: walking_fitness
+  about:
+
+- id: 112
+  name: Walking (treadmill)
+  slug: walking_treadmill
+  about:
+
+- id: 113
+  name: Waterpolo
+  slug: waterpolo
+  about:
+
+- id: 114
+  name: Weightlifting
+  slug: weightlifting
+  about:
+
+- id: 115
+  name: Wheelchair
+  slug: wheelchair
+  about:
+
+- id: 116
+  name: Windsurfing
+  slug: windsurfing
+  about:
+
+- id: 117
+  name: Yoga
+  slug: yoga
+  about:
+
+- id: 118
+  name: Zumba
+  slug: zumba
+  about:
