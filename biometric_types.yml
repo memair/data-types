@@ -25,3 +25,10 @@
   unit: Celsius
   unit_symbol: °C
   about: Internal Body Temperature
+
+- id: 5
+  name: Lifelog Stress Value
+  slug: lifelog_stress
+  unit: percentage
+  unit_symbol: %
+  about: Sony's Lifelog Stress Value, reading from 0 - 100
