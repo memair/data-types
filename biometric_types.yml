@@ -29,6 +29,13 @@
 - id: 5
   name: Lifelog Stress Value
   slug: lifelog_stress
-  unit: percentage
+  unit: Percentage
   unit_symbol: "%"
   about: "Sony's Lifelog Stress Value, reading from 0 - 100 based on Heart Rate and Heart Rate Variability"
+
+- id: 6
+  name: Heart Rate
+  slug: heart_rate
+  unit: Beats Per Minute
+  unit_symbol: bpm
+  about: Beats Per Minute Heart Rate
