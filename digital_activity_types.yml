@@ -37,7 +37,11 @@
 - id: 10
   name: Sent communication
   slug: sent_communication
-  
+
 - id: 11
   name: Received communication
   slug: received_communication
+
+- id: 12
+  name: Created content
+  slug: created_content
