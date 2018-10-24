@@ -10,14 +10,14 @@
   slug: systolic_pressure
   unit: Millimeters of Mercury
   unit_symbol: mm Hg
-  about: Minimum blood pressure
+  about: Minimum blood pressure (the bigger number)
 
 - id: 3
   name: Diastolic Pressure
   slug: diastolic_pressure
   unit: Millimeters of Mercury
   unit_symbol: mm Hg
-  about: Maximum blood pressure
+  about: Maximum blood pressure (the smaller number)
 
 - id: 4
   name: Internal Body Temperature
