@@ -45,3 +45,7 @@
 - id: 12
   name: Created content
   slug: created_content
+
+- id: 13
+  name: Connected with person
+  slug: connected_with_person
