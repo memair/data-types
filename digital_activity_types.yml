@@ -33,3 +33,19 @@
 - id: 9
   name: Turned on device
   slug: turned_on_device
+
+- id: 10
+  name: Sent communication
+  slug: sent_communication
+
+- id: 11
+  name: Received communication
+  slug: received_communication
+
+- id: 12
+  name: Created content
+  slug: created_content
+
+- id: 13
+  name: Connected with person
+  slug: connected_with_person

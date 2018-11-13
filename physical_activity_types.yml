@@ -587,3 +587,8 @@
   name: Zumba
   slug: zumba
   about:
+
+- id: 119
+  name: Pet animal
+  slug: pet_animal
+  about: Pet an animal like a dog or cat
