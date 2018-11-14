@@ -1,0 +1,27 @@
+- id: 1
+  name: Watch video
+  slug: video
+
+- id: 2
+  name: Watch TV show
+  slug: tv_show
+
+- id: 3
+  name: Watch movie
+  slug: movie
+
+- id: 4
+  name: Listen to song
+  slug: song
+
+- id: 5
+  name: Listen to podcast
+  slug: podcast
+
+- id: 6
+  name: Contact friend or family
+  slug: contact
+
+- id: 7
+  name: Physical activity
+  slug: physical
