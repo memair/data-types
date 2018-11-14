@@ -25,3 +25,15 @@
 - id: 7
   name: Physical activity
   slug: physical
+
+- id: 8
+  name: Read Article
+  slug: article
+
+- id: 8
+  name: Read book
+  slug: book
+
+- id: 10
+  name: Visit website
+  slug: website
