@@ -49,3 +49,8 @@
 - id: 13
   name: Connected with person
   slug: connected_with_person
+  
+- id: 14
+  name: Turn off screen
+  slug: turn_off_screen
+
