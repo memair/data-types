@@ -592,3 +592,8 @@
   name: Pet animal
   slug: pet_animal
   about: Pet an animal like a dog or cat
+
+- id: 120
+  name: Deep Work
+  slug: deep_work
+  about: Focus without distraction on a cognitively demanding task
