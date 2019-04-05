@@ -1,0 +1,188 @@
+- id: 10
+  name: absorbed (buccal)
+  slug: absorbed_buccal
+  method: absorbed
+  administration: buccal
+  about: absorbed via the gums and cheek
+
+- id: 20
+  name: absorbed (implant)
+  slug: absorbed_implant
+  method: absorbed
+  administration: implant
+  about: implanted into the body
+
+- id: 30
+  name: absorbed (topical)
+  slug: absorbed_topical
+  method: absorbed
+  administration: topical
+  about: applied locally to the skin
+
+- id: 40
+  name: absorbed (transdermal)
+  slug: absorbed_transdermal
+  method: absorbed
+  administration: transdermal
+  about: absorbed via a patch on the skin
+
+- id: 50
+  name: absorbed (sublingual)
+  slug: absorbed_sublingual
+  method: absorbed
+  administration: sublingual
+  about: absorbed under the tongue
+
+- id: 60
+  name: absorbed (systemic)
+  slug: absorbed_systemic
+  method: absorbed
+  administration: systemic
+  about: body wide absorption via the the skin
+
+- id: 110
+  name: drops (ocular)
+  slug: drops_ocular
+  method: drops
+  administration: ocular
+  about: ear drops
+
+- id: 120
+  name: drops (optic)
+  slug: drops_optic
+  method: drops
+  administration: optic
+  about: eye drops
+
+- id: 130
+  name: drops (rectal)
+  slug: drops_rectal
+  method: drops
+  administration: rectal
+  about: rectal drops
+
+- id: 140
+  name: drops (urethral)
+  slug: drops_urethral
+  method: drops
+  administration: urethral
+  about: urethral drops
+
+- id: 150
+  name: drops (vaginal)
+  slug: drops_vaginal
+  method: drops
+  administration: vaginal
+  about: vaginal drops
+
+- id: 210
+  name: oral (capsule)
+  slug: oral_capsule
+  method: oral
+  administration: capsule
+  about: orally consumed capsules containing medication
+
+- id: 220
+  name: oral (edible)
+  slug: oral_edible
+  method: oral
+  administration: edible
+  about: orally consumed edible containing medication
+
+- id: 230
+  name: oral (liquid)
+  slug: oral_liquid
+  method: oral
+  administration: liquid
+  about: orally consumed liquid containing medication
+
+- id: 240
+  name: oral (tablet)
+  slug: oral_tablet
+  method: oral
+  administration: tablet
+  about: orally consumed tablets containing medication
+
+- id: 310
+  name: inhaled (smoked)
+  slug: inhaled_smoked
+  method: inhaled
+  administration: smoked
+  about: smoked medication
+
+- id: 320
+  name: inhaled (vapour)
+  slug: inhaled_vapour
+  method: inhaled
+  administration: vapour
+  about: vapourized medication
+
+- id: 410
+  name: nasal (spray)
+  slug: nasal_spray
+  method: nasal
+  administration: spray
+  about: nasal spray
+
+- id: 510
+  name: nebulized (mouth)
+  slug: nebulized_mouth
+  method: nebulized
+  administration: mouth
+  about: small aerosol droplets administered into the mouth
+
+- id: 520
+  name: nebulized (nose & mouth)
+  slug: nebulized_nose_mouth
+  method: nebulized
+  administration: nose & mouth
+  about: small aerosol droplets administered into the nose & mouth
+
+- id: 610
+  name: injected (intravenous)
+  slug: injected_intravenous
+  method: injected
+  administration: intravenous
+  about: injected directly into a vein
+
+- id: 620
+  name: injected (intramuscular)
+  slug: injected_intramuscular
+  method: injected
+  administration: intramuscular
+  about: injected into a muscle
+
+- id: 630
+  name: injected (intrathecal)
+  slug: injected_intrathecal
+  method: injected
+  administration: intrathecal
+  about: injected into spinal canal
+
+- id: 640
+  name: injected (subcutaneous)
+  slug: injected_subcutaneous
+  method: injected
+  administration: subcutaneous
+  about: injected into the subcutis, the layer of skin directly
+
+- id: 710
+  name: suppository (rectal)
+  slug: suppository_rectal
+  method: suppository
+  administration: rectal
+  about: a solid dosage form that is inserted into the rectum
+
+- id: 720
+  name: suppository (urethral)
+  slug: suppository_urethral
+  method: suppository
+  administration: urethral
+  about: a solid dosage form that is inserted into the urethra
+
+- id: 730
+  name: suppository (vaginal)
+  slug: suppository_vaginal
+  method: suppository
+  administration: vaginal
+  about: a solid dosage form that is inserted into the vagina
