@@ -24,7 +24,7 @@
   slug: internal_body_temp
   unit: Celsius
   unit_symbol: °C
-  about: Internal Body Temperature
+  about: Core body temperature, normal reading 36.5°C to 37.5°C
 
 - id: 5
   name: Lifelog Stress Value
