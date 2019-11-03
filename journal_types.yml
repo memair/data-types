@@ -69,3 +69,7 @@
 - id: 18
   name: Worry
   slug: worry
+
+- id: 19
+  name: Diary
+  slug: diary
