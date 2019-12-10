@@ -73,3 +73,7 @@
 - id: 19
   name: Diary
   slug: diary
+
+- id: 20
+  name: Gratitude
+  slug: gratitude
