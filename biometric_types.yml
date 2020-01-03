@@ -1,41 +1,48 @@
 - id: 1
-  name: Body Weight
+  name: Body weight
   slug: weight
   unit: Kilogram
   unit_symbol: kg
   about:
 
 - id: 2
-  name: Systolic Pressure
+  name: Systolic pressure
   slug: systolic_pressure
   unit: Millimeters of Mercury
   unit_symbol: mm Hg
   about: Minimum blood pressure (the bigger number)
 
 - id: 3
-  name: Diastolic Pressure
+  name: Diastolic pressure
   slug: diastolic_pressure
   unit: Millimeters of Mercury
   unit_symbol: mm Hg
   about: Maximum blood pressure (the smaller number)
 
 - id: 4
-  name: Internal Body Temperature
+  name: Internal body temperature
   slug: internal_body_temp
   unit: Celsius
   unit_symbol: °C
   about: Core body temperature, normal reading 36.5°C to 37.5°C
 
 - id: 5
-  name: Lifelog Stress Value
+  name: Lifelog stress value
   slug: lifelog_stress
   unit: Percentage
   unit_symbol: "%"
   about: "Sony's Lifelog Stress Value, reading from 0 - 100 based on Heart Rate and Heart Rate Variability"
 
 - id: 6
-  name: Heart Rate
+  name: Heart rate
   slug: heart_rate
   unit: Beats Per Minute
   unit_symbol: bpm
   about: Beats Per Minute Heart Rate
+
+- id: 7
+  name: Waist circumference
+  slug: waist
+  unit: Centimeters
+  unit_symbol: cm
+  about: Find the bottom of your ribs and the top of your hips. Wrap a tape measure around your waist, midway between these points. Breathe out naturally before taking the measurement
