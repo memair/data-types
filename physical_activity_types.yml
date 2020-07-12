@@ -594,6 +594,21 @@
   about: Pet an animal like a dog or cat
 
 - id: 120
-  name: Deep Work
+  name: Deep work
   slug: deep_work
   about: Focus without distraction on a cognitively demanding task
+
+- id: 121
+  name: Push-ups
+  slug: pushups
+  about: Push-ups are a common calisthenics exercise beginning from the prone position
+
+- id: 122
+  name: Sit-ups
+  slug: situps
+  about: Sit-ups (or curl-up) are an abdominal endurance training exercise to strengthen, tighten and tone the abdominal muscles
+
+- id: 123
+  name: Handstand
+  slug: handstand
+  about: A handstand is the act of supporting the body in a stable, inverted vertical position by balancing on the hands. In a basic handstand the body is held straight with arms and legs fully extended, with hands spaced approximately shoulder-width apart and the legs together
