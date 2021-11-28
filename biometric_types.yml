@@ -46,3 +46,10 @@
   unit: Centimeters
   unit_symbol: cm
   about: Find the bottom of your ribs and the top of your hips. Wrap a tape measure around your waist, midway between these points. Breathe out naturally before taking the measurement
+
+- id: 8
+  name: Suprailiac skinfold
+  slug: suprailiac_skinfold
+  unit: Millimetres
+  unit_symbol: mm
+  about: While standing, firmly grasp the suprailliac skinfold and measure with body fat caliper
