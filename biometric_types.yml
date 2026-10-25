@@ -4,6 +4,9 @@
   unit: Kilogram
   unit_symbol: kg
   about:
+  healthkit:
+    quantity: HKQuantityTypeIdentifierBodyMass
+    unit: kg
 
 - id: 2
   name: Systolic pressure
@@ -11,6 +14,9 @@
   unit: Millimeters of Mercury
   unit_symbol: mm Hg
   about: Maximum blood pressure, during a heartbeat (the bigger number)
+  healthkit:
+    quantity: HKQuantityTypeIdentifierBloodPressureSystolic
+    unit: mmHg
 
 - id: 3
   name: Diastolic pressure
@@ -18,6 +24,9 @@
   unit: Millimeters of Mercury
   unit_symbol: mm Hg
   about: Minimum blood pressure, between heartbeats (the smaller number)
+  healthkit:
+    quantity: HKQuantityTypeIdentifierBloodPressureDiastolic
+    unit: mmHg
 
 - id: 4
   name: Internal body temperature
@@ -25,6 +34,9 @@
   unit: Celsius
   unit_symbol: °C
   about: Core body temperature, normal reading 36.5°C to 37.5°C
+  healthkit:
+    quantity: HKQuantityTypeIdentifierBodyTemperature
+    unit: degC
 
 - id: 5
   name: Lifelog stress value
@@ -39,6 +51,9 @@
   unit: Beats Per Minute
   unit_symbol: bpm
   about: Beats Per Minute Heart Rate
+  healthkit:
+    quantity: HKQuantityTypeIdentifierHeartRate
+    unit: count/min
 
 - id: 7
   name: Waist circumference
@@ -46,6 +61,9 @@
   unit: Centimeters
   unit_symbol: cm
   about: Find the bottom of your ribs and the top of your hips. Wrap a tape measure around your waist, midway between these points. Breathe out naturally before taking the measurement
+  healthkit:
+    quantity: HKQuantityTypeIdentifierWaistCircumference
+    unit: cm
 
 - id: 8
   name: Suprailiac skinfold
@@ -53,3 +71,205 @@
   unit: Millimetres
   unit_symbol: mm
   about: While standing, firmly grasp the suprailliac skinfold and measure with body fat caliper
+
+- id: 9
+  name: Resting heart rate
+  slug: resting_heart_rate
+  unit: Beats Per Minute
+  unit_symbol: bpm
+  about: Heart rate while at rest
+  healthkit:
+    quantity: HKQuantityTypeIdentifierRestingHeartRate
+    unit: count/min
+
+- id: 10
+  name: Walking heart rate
+  slug: walking_heart_rate
+  unit: Beats Per Minute
+  unit_symbol: bpm
+  about: Average heart rate while walking
+  healthkit:
+    quantity: HKQuantityTypeIdentifierWalkingHeartRateAverage
+    unit: count/min
+
+- id: 11
+  name: Heart rate variability
+  slug: heart_rate_variability
+  unit: Milliseconds
+  unit_symbol: ms
+  about: Standard deviation of the intervals between heartbeats (SDNN)
+  healthkit:
+    quantity: HKQuantityTypeIdentifierHeartRateVariabilitySDNN
+    unit: ms
+
+- id: 12
+  name: Respiratory rate
+  slug: respiratory_rate
+  unit: Breaths Per Minute
+  unit_symbol: breaths/min
+  about:
+  healthkit:
+    quantity: HKQuantityTypeIdentifierRespiratoryRate
+    unit: count/min
+
+- id: 13
+  name: Blood oxygen saturation
+  slug: oxygen_saturation
+  unit: Percentage
+  unit_symbol: "%"
+  about: SpO2, the share of haemoglobin carrying oxygen
+  healthkit:
+    quantity: HKQuantityTypeIdentifierOxygenSaturation
+    unit: '%'
+    multiplier: 100
+
+- id: 14
+  name: Body fat percentage
+  slug: body_fat_percentage
+  unit: Percentage
+  unit_symbol: "%"
+  about:
+  healthkit:
+    quantity: HKQuantityTypeIdentifierBodyFatPercentage
+    unit: '%'
+    multiplier: 100
+
+- id: 15
+  name: Body mass index
+  slug: body_mass_index
+  unit: Kilograms per square metre
+  unit_symbol: kg/m²
+  about:
+  healthkit:
+    quantity: HKQuantityTypeIdentifierBodyMassIndex
+    unit: count
+
+- id: 16
+  name: Height
+  slug: height
+  unit: Centimeters
+  unit_symbol: cm
+  about:
+  healthkit:
+    quantity: HKQuantityTypeIdentifierHeight
+    unit: cm
+
+- id: 17
+  name: Lean body mass
+  slug: lean_body_mass
+  unit: Kilogram
+  unit_symbol: kg
+  about:
+  healthkit:
+    quantity: HKQuantityTypeIdentifierLeanBodyMass
+    unit: kg
+
+- id: 18
+  name: Blood glucose
+  slug: blood_glucose
+  unit: Millimoles per litre
+  unit_symbol: mmol/L
+  about:
+  healthkit:
+    quantity: HKQuantityTypeIdentifierBloodGlucose
+    unit: mmol<180.15588000005408>/L
+
+- id: 19
+  name: VO2 max
+  slug: vo2_max
+  unit: Millilitres per kilogram per minute
+  unit_symbol: mL/(kg·min)
+  about: Maximum rate of oxygen consumption during exercise
+  healthkit:
+    quantity: HKQuantityTypeIdentifierVO2Max
+    unit: ml/(kg*min)
+
+- id: 20
+  name: Basal body temperature
+  slug: basal_body_temp
+  unit: Celsius
+  unit_symbol: °C
+  about: Body temperature at rest, measured on waking
+  healthkit:
+    quantity: HKQuantityTypeIdentifierBasalBodyTemperature
+    unit: degC
+
+- id: 21
+  name: Steps (daily total)
+  slug: daily_steps
+  unit: Steps
+  unit_symbol: steps
+  about: Steps taken in one day, recorded at the start of the day
+  healthkit:
+    quantity: HKQuantityTypeIdentifierStepCount
+    unit: count
+
+- id: 22
+  name: Walking and running distance (daily total)
+  slug: daily_walking_running_distance
+  unit: Kilometres
+  unit_symbol: km
+  about: Distance walked and run in one day, recorded at the start of the day
+  healthkit:
+    quantity: HKQuantityTypeIdentifierDistanceWalkingRunning
+    unit: km
+
+- id: 23
+  name: Cycling distance (daily total)
+  slug: daily_cycling_distance
+  unit: Kilometres
+  unit_symbol: km
+  about: Distance cycled in one day, recorded at the start of the day
+  healthkit:
+    quantity: HKQuantityTypeIdentifierDistanceCycling
+    unit: km
+
+- id: 24
+  name: Flights climbed (daily total)
+  slug: daily_flights_climbed
+  unit: Flights
+  unit_symbol: flights
+  about: Flights of stairs climbed in one day, recorded at the start of the day
+  healthkit:
+    quantity: HKQuantityTypeIdentifierFlightsClimbed
+    unit: count
+
+- id: 25
+  name: Active energy (daily total)
+  slug: daily_active_energy
+  unit: Kilocalories
+  unit_symbol: kcal
+  about: Energy burned through activity in one day, recorded at the start of the day
+  healthkit:
+    quantity: HKQuantityTypeIdentifierActiveEnergyBurned
+    unit: kcal
+
+- id: 26
+  name: Exercise time (daily total)
+  slug: daily_exercise_time
+  unit: Minutes
+  unit_symbol: min
+  about: Minutes of brisk activity in one day, recorded at the start of the day
+  healthkit:
+    quantity: HKQuantityTypeIdentifierAppleExerciseTime
+    unit: min
+
+- id: 27
+  name: Water (daily total)
+  slug: daily_water
+  unit: Millilitres
+  unit_symbol: mL
+  about: Water drunk in one day, recorded at the start of the day
+  healthkit:
+    quantity: HKQuantityTypeIdentifierDietaryWater
+    unit: mL
+
+- id: 28
+  name: Caffeine (daily total)
+  slug: daily_caffeine
+  unit: Milligrams
+  unit_symbol: mg
+  about: Caffeine consumed in one day, recorded at the start of the day
+  healthkit:
+    quantity: HKQuantityTypeIdentifierDietaryCaffeine
+    unit: mg

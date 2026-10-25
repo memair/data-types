@@ -18,6 +18,8 @@
   method: absorbed
   administration: topical
   about: applied locally to the skin
+  healthkit:
+    general_forms: [cream, foam, gel, lotion, ointment, topical]
 
 - id: 40
   name: absorbed (transdermal)
@@ -25,6 +27,8 @@
   method: absorbed
   administration: transdermal
   about: absorbed via a patch on the skin
+  healthkit:
+    general_forms: [patch]
 
 - id: 50
   name: absorbed (sublingual)
@@ -46,6 +50,8 @@
   method: drops
   administration: ocular
   about: ear drops
+  healthkit:
+    general_forms: [drops]
 
 - id: 120
   name: drops (optic)
@@ -81,6 +87,8 @@
   method: oral
   administration: capsule
   about: orally consumed capsules containing medication
+  healthkit:
+    general_forms: [capsule]
 
 - id: 220
   name: oral (edible)
@@ -88,6 +96,8 @@
   method: oral
   administration: edible
   about: orally consumed edible containing medication
+  healthkit:
+    general_forms: [powder]
 
 - id: 230
   name: oral (liquid)
@@ -95,6 +105,8 @@
   method: oral
   administration: liquid
   about: orally consumed liquid containing medication
+  healthkit:
+    general_forms: [liquid]
 
 - id: 240
   name: oral (tablet)
@@ -102,6 +114,8 @@
   method: oral
   administration: tablet
   about: orally consumed tablets containing medication
+  healthkit:
+    general_forms: [tablet]
 
 - id: 310
   name: inhaled (smoked)
@@ -116,6 +130,8 @@
   method: inhaled
   administration: vapour
   about: vapourized medication
+  healthkit:
+    general_forms: [inhaler]
 
 - id: 410
   name: nasal (spray)
@@ -123,6 +139,8 @@
   method: nasal
   administration: spray
   about: nasal spray
+  healthkit:
+    general_forms: [spray]
 
 - id: 510
   name: nebulized (mouth)
@@ -165,6 +183,8 @@
   method: injected
   administration: subcutaneous
   about: injected into the subcutis, the layer of skin directly
+  healthkit:
+    general_forms: [injection]
 
 - id: 710
   name: suppository (rectal)
@@ -172,6 +192,8 @@
   method: suppository
   administration: rectal
   about: a solid dosage form that is inserted into the rectum
+  healthkit:
+    general_forms: [suppository]
 
 - id: 720
   name: suppository (urethral)
@@ -186,3 +208,12 @@
   method: suppository
   administration: vaginal
   about: a solid dosage form that is inserted into the vagina
+
+- id: 900
+  name: unspecified
+  slug: unspecified
+  method: unspecified
+  administration: unspecified
+  about: the form was not recorded
+  healthkit:
+    general_forms: [device, unknown]

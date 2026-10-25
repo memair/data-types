@@ -2,11 +2,15 @@
   name: Happy
   slug: happy
   emoji: 😀
+  healthkit:
+    state_of_mind_labels: [17]
 
 - id: 2
   name: Relieved
   slug: relieved
   emoji: 😌
+  healthkit:
+    state_of_mind_labels: [26]
 
 - id: 3
   name: Neutral
@@ -17,21 +21,29 @@
   name: Worried
   slug: worried
   emoji: 😟
+  healthkit:
+    state_of_mind_labels: [31]
 
 - id: 5
   name: Sad
   slug: sad
   emoji: 😞
+  healthkit:
+    state_of_mind_labels: [27]
 
 - id: 6
   name: Content
   slug: content
   emoji: 😌
+  healthkit:
+    state_of_mind_labels: [8]
 
 - id: 7
   name: Angry
   slug: angry
   emoji: 😠
+  healthkit:
+    state_of_mind_labels: [3]
 
 - id: 8
   name: Tired
@@ -42,6 +54,8 @@
   name: Anxious
   slug: anxious
   emoji: 😟
+  healthkit:
+    state_of_mind_labels: [4]
 
 - id: 10
   name: Sleepy
@@ -57,8 +71,220 @@
   name: Fearful
   slug: fearful
   emoji: 😨
-  
+  healthkit:
+    state_of_mind_labels: [28]
+
 - id: 13
   name: Anguish
   slug: anguish
   emoji: 😧
+
+- id: 14
+  name: Amazed
+  slug: amazed
+  emoji: 🤩
+  healthkit:
+    state_of_mind_labels: [1]
+
+- id: 15
+  name: Amused
+  slug: amused
+  emoji: 😆
+  healthkit:
+    state_of_mind_labels: [2]
+
+- id: 16
+  name: Ashamed
+  slug: ashamed
+  emoji: 🫣
+  healthkit:
+    state_of_mind_labels: [5]
+
+- id: 17
+  name: Brave
+  slug: brave
+  emoji: 🦁
+  healthkit:
+    state_of_mind_labels: [6]
+
+- id: 18
+  name: Calm
+  slug: calm
+  emoji: 🧘
+  healthkit:
+    state_of_mind_labels: [7]
+
+- id: 19
+  name: Disappointed
+  slug: disappointed
+  emoji: 😔
+  healthkit:
+    state_of_mind_labels: [9]
+
+- id: 20
+  name: Discouraged
+  slug: discouraged
+  emoji: 😩
+  healthkit:
+    state_of_mind_labels: [10]
+
+- id: 21
+  name: Disgusted
+  slug: disgusted
+  emoji: 🤢
+  healthkit:
+    state_of_mind_labels: [11]
+
+- id: 22
+  name: Embarrassed
+  slug: embarrassed
+  emoji: 😳
+  healthkit:
+    state_of_mind_labels: [12]
+
+- id: 23
+  name: Excited
+  slug: excited
+  emoji: 🥳
+  healthkit:
+    state_of_mind_labels: [13]
+
+- id: 24
+  name: Frustrated
+  slug: frustrated
+  emoji: 😤
+  healthkit:
+    state_of_mind_labels: [14]
+
+- id: 25
+  name: Grateful
+  slug: grateful
+  emoji: 🙏
+  healthkit:
+    state_of_mind_labels: [15]
+
+- id: 26
+  name: Guilty
+  slug: guilty
+  emoji: 😣
+  healthkit:
+    state_of_mind_labels: [16]
+
+- id: 27
+  name: Hopeless
+  slug: hopeless
+  emoji: 😿
+  healthkit:
+    state_of_mind_labels: [18]
+
+- id: 28
+  name: Irritated
+  slug: irritated
+  emoji: 💢
+  healthkit:
+    state_of_mind_labels: [19]
+
+- id: 29
+  name: Jealous
+  slug: jealous
+  emoji: 💚
+  healthkit:
+    state_of_mind_labels: [20]
+
+- id: 30
+  name: Joyful
+  slug: joyful
+  emoji: 😁
+  healthkit:
+    state_of_mind_labels: [21]
+
+- id: 31
+  name: Lonely
+  slug: lonely
+  emoji: 🥺
+  healthkit:
+    state_of_mind_labels: [22]
+
+- id: 32
+  name: Passionate
+  slug: passionate
+  emoji: 🔥
+  healthkit:
+    state_of_mind_labels: [23]
+
+- id: 33
+  name: Peaceful
+  slug: peaceful
+  emoji: 🕊️
+  healthkit:
+    state_of_mind_labels: [24]
+
+- id: 34
+  name: Proud
+  slug: proud
+  emoji: 🏆
+  healthkit:
+    state_of_mind_labels: [25]
+
+- id: 35
+  name: Stressed
+  slug: stressed
+  emoji: 😰
+  healthkit:
+    state_of_mind_labels: [29]
+
+- id: 36
+  name: Surprised
+  slug: surprised
+  emoji: 😮
+  healthkit:
+    state_of_mind_labels: [30]
+
+- id: 37
+  name: Annoyed
+  slug: annoyed
+  emoji: 😒
+  healthkit:
+    state_of_mind_labels: [32]
+
+- id: 38
+  name: Confident
+  slug: confident
+  emoji: 😎
+  healthkit:
+    state_of_mind_labels: [33]
+
+- id: 39
+  name: Drained
+  slug: drained
+  emoji: 🪫
+  healthkit:
+    state_of_mind_labels: [34]
+
+- id: 40
+  name: Hopeful
+  slug: hopeful
+  emoji: 🤞
+  healthkit:
+    state_of_mind_labels: [35]
+
+- id: 41
+  name: Indifferent
+  slug: indifferent
+  emoji: 😑
+  healthkit:
+    state_of_mind_labels: [36]
+
+- id: 42
+  name: Overwhelmed
+  slug: overwhelmed
+  emoji: 🤯
+  healthkit:
+    state_of_mind_labels: [37]
+
+- id: 43
+  name: Satisfied
+  slug: satisfied
+  emoji: 👌
+  healthkit:
+    state_of_mind_labels: [38]
