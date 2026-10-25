@@ -12,6 +12,9 @@
   name: Awake (during sleep cycle)
   slug: awake_during_sleep_cycle
   about:
+  healthkit:
+    category: HKCategoryTypeIdentifierSleepAnalysis
+    values: [2]
 
 - id: 4
   name: Back-country skiing
@@ -22,16 +25,22 @@
   name: Badminton
   slug: badminton
   about:
+  healthkit:
+    workouts: [4]
 
 - id: 6
   name: Baseball
   slug: baseball
   about:
+  healthkit:
+    workouts: [5]
 
 - id: 7
   name: Basketball
   slug: basketball
   about:
+  healthkit:
+    workouts: [6]
 
 - id: 8
   name: Biathlon
@@ -42,11 +51,15 @@
   name: Biking
   slug: biking
   about:
+  healthkit:
+    workouts: [13]
 
 - id: 10
   name: Boxing
   slug: boxing
   about:
+  healthkit:
+    workouts: [8]
 
 - id: 11
   name: Calisthenics
@@ -57,6 +70,8 @@
   name: Circuit training
   slug: circuit_training
   about:
+  healthkit:
+    workouts: [11]
 
 - id: 13
   name: Circus arts
@@ -67,11 +82,15 @@
   name: Cricket
   slug: cricket
   about:
+  healthkit:
+    workouts: [10]
 
 - id: 15
   name: Cross-country skiing
   slug: cross_country_skiing
   about:
+  healthkit:
+    workouts: [60]
 
 - id: 16
   name: Cross skating
@@ -82,16 +101,23 @@
   name: Curling
   slug: curling
   about:
+  healthkit:
+    workouts: [12]
 
 - id: 18
   name: Dancing
   slug: dancing
   about:
+  healthkit:
+    workouts: [77, 78]
 
 - id: 19
   name: Deep sleep
   slug: deep_sleep
   about:
+  healthkit:
+    category: HKCategoryTypeIdentifierSleepAnalysis
+    values: [4]
 
 - id: 20
   name: Diving
@@ -102,11 +128,15 @@
   name: Downhill skiing
   slug: downhill_skiing
   about:
+  healthkit:
+    workouts: [61]
 
 - id: 22
   name: Elliptical
   slug: elliptical
   about:
+  healthkit:
+    workouts: [16]
 
 - id: 23
   name: Ergometer
@@ -117,26 +147,36 @@
   name: Fencing
   slug: fencing
   about:
+  healthkit:
+    workouts: [18]
 
 - id: 25
   name: Football (American)
   slug: football_american
   about:
+  healthkit:
+    workouts: [1]
 
 - id: 26
   name: Football (Australian)
   slug: football_australian
   about:
+  healthkit:
+    workouts: [3]
 
 - id: 27
   name: Football (Soccer)
   slug: football_soccer
   about:
+  healthkit:
+    workouts: [41]
 
 - id: 28
   name: Frisbee
   slug: frisbee
   about:
+  healthkit:
+    workouts: [75]
 
 - id: 29
   name: Gardening
@@ -147,36 +187,50 @@
   name: Golf
   slug: golf
   about:
+  healthkit:
+    workouts: [21]
 
 - id: 31
   name: Gymnastics
   slug: gymnastics
   about:
+  healthkit:
+    workouts: [22]
 
 - id: 32
   name: Handball
   slug: handball
   about:
+  healthkit:
+    workouts: [23]
 
 - id: 33
   name: Handbiking
   slug: handbiking
   about:
+  healthkit:
+    workouts: [74]
 
 - id: 34
   name: Hiking
   slug: hiking
   about:
+  healthkit:
+    workouts: [24]
 
 - id: 35
   name: Hockey
   slug: hockey
   about:
+  healthkit:
+    workouts: [25]
 
 - id: 36
   name: Horseback riding
   slug: horseback_riding
   about:
+  healthkit:
+    workouts: [17]
 
 - id: 37
   name: Housework
@@ -212,6 +266,8 @@
   name: Jumping rope
   slug: jumping_rope
   about:
+  healthkit:
+    workouts: [64]
 
 - id: 44
   name: Kayaking
@@ -227,6 +283,8 @@
   name: Kickboxing
   slug: kickboxing
   about:
+  healthkit:
+    workouts: [65]
 
 - id: 47
   name: Kite skiing
@@ -242,11 +300,16 @@
   name: Light sleep
   slug: light_sleep
   about:
+  healthkit:
+    category: HKCategoryTypeIdentifierSleepAnalysis
+    values: [3]
 
 - id: 50
   name: Martial arts
   slug: martial_arts
   about:
+  healthkit:
+    workouts: [28]
 
 - id: 51
   name: Massage giving
@@ -262,6 +325,8 @@
   name: Meditation
   slug: meditation
   about:
+  healthkit:
+    category: HKCategoryTypeIdentifierMindfulSession
 
 - id: 54
   name: Mixed martial arts
@@ -287,6 +352,8 @@
   name: Other (unclassified fitness activity)
   slug: other_unclassified_fitness_activity
   about:
+  healthkit:
+    workouts: [3000]
 
 - id: 59
   name: Paragliding
@@ -297,6 +364,8 @@
   name: Pilates
   slug: pilates
   about:
+  healthkit:
+    workouts: [66]
 
 - id: 61
   name: Polo
@@ -312,11 +381,16 @@
   name: Racquetball
   slug: racquetball
   about:
+  healthkit:
+    workouts: [34]
 
 - id: 64
   name: REM sleep
   slug: rem_sleep
   about:
+  healthkit:
+    category: HKCategoryTypeIdentifierSleepAnalysis
+    values: [5]
 
 - id: 65
   name: Road biking
@@ -327,6 +401,8 @@
   name: Rock climbing
   slug: rock_climbing
   about:
+  healthkit:
+    workouts: [9]
 
 - id: 67
   name: Roller skiing
@@ -337,6 +413,8 @@
   name: Rowing
   slug: rowing
   about:
+  healthkit:
+    workouts: [35]
 
 - id: 69
   name: Rowing machine
@@ -347,11 +425,15 @@
   name: Rugby
   slug: rugby
   about:
+  healthkit:
+    workouts: [36]
 
 - id: 71
   name: Running
   slug: running
   about:
+  healthkit:
+    workouts: [37]
 
 - id: 72
   name: Running on sand
@@ -367,11 +449,15 @@
   name: Sailing
   slug: sailing
   about:
+  healthkit:
+    workouts: [38]
 
 - id: 75
   name: Scuba diving
   slug: scuba_diving
   about:
+  healthkit:
+    workouts: [84]
 
 - id: 76
   name: Sexual intercourse
@@ -392,6 +478,8 @@
   name: Skating
   slug: skating
   about:
+  healthkit:
+    workouts: [39]
 
 - id: 80
   name: Skiing
@@ -407,11 +495,16 @@
   name: Sleeping
   slug: sleeping
   about:
+  healthkit:
+    category: HKCategoryTypeIdentifierSleepAnalysis
+    values: [1]
 
 - id: 83
   name: Snowboarding
   slug: snowboarding
   about:
+  healthkit:
+    workouts: [67]
 
 - id: 84
   name: Snowmobile
@@ -432,16 +525,22 @@
   name: Squash
   slug: squash
   about:
+  healthkit:
+    workouts: [43]
 
 - id: 88
   name: Stair climbing
   slug: stair_climbing
   about:
+  healthkit:
+    workouts: [68]
 
 - id: 89
   name: Stair-climbing machine
   slug: stair_climbing_machine
   about:
+  healthkit:
+    workouts: [44]
 
 - id: 90
   name: Standing
@@ -467,16 +566,22 @@
   name: Strength training
   slug: strength_training
   about:
+  healthkit:
+    workouts: [20]
 
 - id: 95
   name: Surfing
   slug: surfing
   about:
+  healthkit:
+    workouts: [45]
 
 - id: 96
   name: Swimming
   slug: swimming
   about:
+  healthkit:
+    workouts: [46]
 
 - id: 97
   name: Swimming (open water)
@@ -492,6 +597,8 @@
   name: Table tennis (ping pong)
   slug: table_tennis
   about:
+  healthkit:
+    workouts: [47]
 
 - id: 100
   name: Team sports
@@ -502,6 +609,8 @@
   name: Tennis
   slug: tennis
   about:
+  healthkit:
+    workouts: [48]
 
 - id: 102
   name: Tilting (sudden device gravity change)
@@ -527,6 +636,8 @@
   name: Volleyball
   slug: volleyball
   about:
+  healthkit:
+    workouts: [51]
 
 - id: 107
   name: Volleyball (beach)
@@ -547,6 +658,8 @@
   name: Walking
   slug: walking
   about:
+  healthkit:
+    workouts: [52]
 
 - id: 111
   name: Walking (fitness)
@@ -562,16 +675,22 @@
   name: Waterpolo
   slug: waterpolo
   about:
+  healthkit:
+    workouts: [54]
 
 - id: 114
   name: Weightlifting
   slug: weightlifting
   about:
+  healthkit:
+    workouts: [50]
 
 - id: 115
   name: Wheelchair
   slug: wheelchair
   about:
+  healthkit:
+    workouts: [70, 71]
 
 - id: 116
   name: Windsurfing
@@ -582,6 +701,8 @@
   name: Yoga
   slug: yoga
   about:
+  healthkit:
+    workouts: [57]
 
 - id: 118
   name: Zumba
@@ -602,6 +723,8 @@
   name: Stretching
   slug: stretching
   about:
+  healthkit:
+    workouts: [62]
 
 - id: 122
   name: Sit-ups
@@ -617,3 +740,185 @@
   name: Push-ups
   slug: pushups
   about: Push-ups are a common calisthenics exercise beginning from the prone position
+
+- id: 125
+  name: Archery
+  slug: archery
+  about:
+  healthkit:
+    workouts: [2]
+
+- id: 126
+  name: Bowling
+  slug: bowling
+  about:
+  healthkit:
+    workouts: [7]
+
+- id: 127
+  name: Fishing
+  slug: fishing
+  about:
+  healthkit:
+    workouts: [19]
+
+- id: 128
+  name: Hunting
+  slug: hunting
+  about:
+  healthkit:
+    workouts: [26]
+
+- id: 129
+  name: Lacrosse
+  slug: lacrosse
+  about:
+  healthkit:
+    workouts: [27]
+
+- id: 130
+  name: Mind and body
+  slug: mind_and_body
+  about: Such as tai chi, qigong or breathing exercises
+  healthkit:
+    workouts: [29]
+
+- id: 131
+  name: Paddle sports
+  slug: paddle_sports
+  about: Such as canoeing, kayaking or paddleboarding
+  healthkit:
+    workouts: [31]
+
+- id: 132
+  name: Play
+  slug: play
+  about: Such as tag, dodgeball or a playground
+  healthkit:
+    workouts: [32]
+
+- id: 133
+  name: Preparation and recovery
+  slug: preparation_and_recovery
+  about: Such as warming up or foam rolling
+  healthkit:
+    workouts: [33]
+
+- id: 134
+  name: Snow sports
+  slug: snow_sports
+  about: Such as sledding or snowshoeing
+  healthkit:
+    workouts: [40]
+
+- id: 135
+  name: Softball
+  slug: softball
+  about:
+  healthkit:
+    workouts: [42]
+
+- id: 136
+  name: Track and field
+  slug: track_and_field
+  about:
+  healthkit:
+    workouts: [49]
+
+- id: 137
+  name: Water fitness
+  slug: water_fitness
+  about: Such as aqua aerobics
+  healthkit:
+    workouts: [53]
+
+- id: 138
+  name: Water sports
+  slug: water_sports
+  about: Such as water skiing or wakeboarding
+  healthkit:
+    workouts: [55]
+
+- id: 139
+  name: Wrestling
+  slug: wrestling
+  about:
+  healthkit:
+    workouts: [56]
+
+- id: 140
+  name: Barre
+  slug: barre
+  about:
+  healthkit:
+    workouts: [58]
+
+- id: 141
+  name: Core training
+  slug: core_training
+  about:
+  healthkit:
+    workouts: [59]
+
+- id: 142
+  name: High-intensity interval training
+  slug: high_intensity_interval_training
+  about: HIIT
+  healthkit:
+    workouts: [63]
+
+- id: 143
+  name: Step training
+  slug: step_training
+  about:
+  healthkit:
+    workouts: [69]
+
+- id: 144
+  name: Tai chi
+  slug: tai_chi
+  about:
+  healthkit:
+    workouts: [72]
+
+- id: 145
+  name: Mixed cardio
+  slug: mixed_cardio
+  about:
+  healthkit:
+    workouts: [73]
+
+- id: 146
+  name: Fitness gaming
+  slug: fitness_gaming
+  about:
+  healthkit:
+    workouts: [76]
+
+- id: 147
+  name: Pickleball
+  slug: pickleball
+  about:
+  healthkit:
+    workouts: [79]
+
+- id: 148
+  name: Cooldown
+  slug: cooldown
+  about:
+  healthkit:
+    workouts: [80]
+
+- id: 149
+  name: Multisport
+  slug: multisport
+  about: A swim, bike and run race, such as a triathlon
+  healthkit:
+    workouts: [82]
+
+- id: 150
+  name: Multisport transition
+  slug: multisport_transition
+  about: Time between the legs of a multisport race
+  healthkit:
+    workouts: [83]
