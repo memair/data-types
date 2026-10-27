@@ -21,3 +21,14 @@ A type with a `healthkit` key is one the Memair iPhone app can import from Apple
 Each Apple value belongs to one type at most. A cumulative quantity, such as steps, is imported as one record per day, so the types it maps to are daily totals. Every workout activity type and every State of Mind label that the iOS 26.2 SDK defines has a type. Where Apple's medication form does not say how the medication is taken, the mapping takes the common case: drops are eye drops, an injection is subcutaneous, and a spray is nasal.
 
 An Android app would add a `healthconnect` key the same way.
+
+## Other phone sources
+
+The iPhone app also records from two other frameworks. Each has its own key, read the same way as `healthkit`.
+
+| File | Key | Meaning |
+| --- | --- | --- |
+| `physical_activity_types.yml` | `coremotion.activity` | The [`CMMotionActivity`](https://developer.apple.com/documentation/coremotion/cmmotionactivity) property that is true during this activity: `walking`, `running`, `cycling` or `automotive`. |
+| `digital_activity_types.yml` | `photos.media_type` | The [`PHAssetMediaType`](https://developer.apple.com/documentation/photos/phassetmediatype) case of the photos and videos that mean this activity: `image` or `video`. Only the time an asset was made is recorded, never its content or location. |
+
+Each value belongs to one type at most. `stationary` has no type, because a phone at rest would record most of the day.

@@ -21,10 +21,14 @@
 - id: 6
   name: Took photo
   slug: took_photo
+  photos:
+    media_type: image
 
 - id: 7
   name: Recorded video
   slug: recorded_video
+  photos:
+    media_type: video
 
 - id: 8
   name: Turned off device
