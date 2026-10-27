@@ -53,6 +53,8 @@
   about:
   healthkit:
     workouts: [13]
+  coremotion:
+    activity: cycling
 
 - id: 10
   name: Boxing
@@ -256,6 +258,8 @@
   name: In vehicle
   slug: in_vehicle
   about:
+  coremotion:
+    activity: automotive
 
 - id: 42
   name: Jogging
@@ -434,6 +438,8 @@
   about:
   healthkit:
     workouts: [37]
+  coremotion:
+    activity: running
 
 - id: 72
   name: Running on sand
@@ -660,6 +666,8 @@
   about:
   healthkit:
     workouts: [52]
+  coremotion:
+    activity: walking
 
 - id: 111
   name: Walking (fitness)
